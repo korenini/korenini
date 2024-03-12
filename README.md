@@ -1,4 +1,4 @@
-### Hi there 👋
++ GnuPG fingerprint: [CAAA D4AA EC2C B6DF A01C  63C9 F7D7 4BD3 618F DA40](https://github.com/korenini.gpg)
 
 <!--
 **korenini/korenini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
